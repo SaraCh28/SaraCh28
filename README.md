@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing software engineering.
 - 📫 My email is sarachaudary028@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: My brain is a playlist of software algorithms, fashion designs, and guitar riffs. It’s chaotic but fun!
+- ⚡ Fun fact: My brain is a playlist of software algorithms, fashion designs, chess moves, and music notes. It’s chaotic but fun!
 
 <!---
 SaraCh28/SaraCh28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
